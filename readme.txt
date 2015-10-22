@@ -1,1 +1,1 @@
-Hello! Nice day we're having!
+Hello! What a nice day we're having!
